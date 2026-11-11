@@ -1,0 +1,8 @@
+.venv/
+mlflow.db
+mlruns/
+mlartifacts/
+__pycache__/
+.env
+model/
+predicciones.csv
